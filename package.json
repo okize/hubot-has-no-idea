@@ -1,0 +1,38 @@
+{
+  "name": "hubot-has-no-idea",
+  "version": "1.0.0",
+  "description": "Hubot script to display 'I have no idea what I'm doing' images",
+  "main": "index.coffee",
+  "author": {
+    "name": "Morgan Wigmanich",
+    "email": "okize123@gmail.com",
+    "url": "https://github.com/okize"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "i have no idea what i'm doing"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test"
+  },
+  "homepage": "https://github.com/okize/hubot-has-no-idea/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okize/hubot-has-no-idea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okize/hubot-has-no-idea/issues"
+  },
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
