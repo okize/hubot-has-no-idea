@@ -2,7 +2,7 @@
 
 # Hubot: Has No Idea
 
-I have no idea what I'm doing
+Hubot script to display "I have no idea what I'm doing" images
 
 ## Installation
 
