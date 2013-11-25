@@ -35,7 +35,6 @@ images = [
   'http://imgur.com/xC0JCFK',
   'http://imgur.com/kFNAAeX',
   'http://imgur.com/9s62t7y',
-  'http://imgur.com/QJ4MoXP',
   'http://imgur.com/ugZ2tGn',
   'http://imgur.com/DeyWrC2',
   'http://imgur.com/tkbLyTG',
