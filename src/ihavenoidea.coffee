@@ -28,20 +28,20 @@ gaffes = [
 ]
 
 images = [
-  'http://imgur.com/XhZzd2h',
-  'http://imgur.com/GtgkJ38',
-  'http://imgur.com/Jv3qULQ',
-  'http://imgur.com/1hrVmZD',
-  'http://imgur.com/xC0JCFK',
-  'http://imgur.com/kFNAAeX',
-  'http://imgur.com/9s62t7y',
-  'http://imgur.com/ugZ2tGn',
-  'http://imgur.com/DeyWrC2',
-  'http://imgur.com/tkbLyTG',
-  'http://imgur.com/g8EbISz',
-  'http://imgur.com/RuFZdPR',
-  'http://imgur.com/YLEM3Ns',
-  'http://imgur.com/1TWbKbW'
+  'http://i.imgur.com/XhZzd2h.jpg',
+  'http://i.imgur.com/GtgkJ38.jpg',
+  'http://i.imgur.com/Jv3qULQ.jpg',
+  'http://i.imgur.com/1hrVmZD.jpg',
+  'http://i.imgur.com/xC0JCFK.jpg',
+  'http://i.imgur.com/kFNAAeX.jpg',
+  'http://i.imgur.com/9s62t7y.jpg',
+  'http://i.imgur.com/ugZ2tGn.jpg',
+  'http://i.imgur.com/DeyWrC2.jpg',
+  'http://i.imgur.com/tkbLyTG.jpg',
+  'http://i.imgur.com/g8EbISz.jpg',
+  'http://i.imgur.com/RuFZdPR.jpg',
+  'http://i.imgur.com/YLEM3Ns.jpg',
+  'http://i.imgur.com/1TWbKbW.jpg'
 ]
 
 regex = new RegExp gaffes.join('|'), 'ig'
