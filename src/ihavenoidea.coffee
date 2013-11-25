@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   make a mistake - I have no idea what I'm doing
+#   you have no idea what you're doing
 #
 # Notes
 #   None
