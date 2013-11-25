@@ -41,7 +41,29 @@ images = [
   'http://i.imgur.com/g8EbISz.jpg',
   'http://i.imgur.com/RuFZdPR.jpg',
   'http://i.imgur.com/YLEM3Ns.jpg',
-  'http://i.imgur.com/1TWbKbW.jpg'
+  'http://i.imgur.com/1TWbKbW.jpg',
+  'http://i.imgur.com/TI3WnNA.jpg',
+  'http://i.imgur.com/i2HzqxG.jpg',
+  'http://i.imgur.com/rxmM8kW.jpg',
+  'http://i.imgur.com/rOLIY1j.jpg',
+  'http://i.imgur.com/QBmu04M.jpg',
+  'http://i.imgur.com/uoopXkE.jpg',
+  'http://i.imgur.com/fZamcNF.jpg',
+  'http://i.imgur.com/dBlUucn.jpg',
+  'http://i.imgur.com/bTd5iG4.jpg',
+  'http://i.imgur.com/os4PzqA.jpg',
+  'http://i.imgur.com/gjqxbP9.jpg',
+  'http://i.imgur.com/iigEnN5.jpg',
+  'http://i.imgur.com/EWHIp7D.jpg',
+  'http://i.imgur.com/3nIX7wM.jpg',
+  'http://i.imgur.com/tbcUXuk.jpg',
+  'http://i.imgur.com/C3U88dt.jpg',
+  'http://i.imgur.com/ix8sKXE.jpg',
+  'http://i.imgur.com/Ln3XGr8.jpg',
+  'http://i.imgur.com/EpTWiVV.jpg',
+  'http://i.imgur.com/oznsKcx.jpg',
+  'http://i.imgur.com/H8ql85J.jpg'
 ]
 
 regex = new RegExp gaffes.join('|'), 'ig'
+
