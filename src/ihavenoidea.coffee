@@ -24,6 +24,7 @@ images = require 'images'
 
 gaffes = [
   'i ha(ve|s) no idea',
+  'i don\'t know',
   '(wh|)oops(|ie)',
   'my (bad|mistake|fault)',
   'd(\')oh'
