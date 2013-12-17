@@ -1,6 +1,6 @@
 {
   "name": "hubot-has-no-idea",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Hubot script that displays `I have no idea what I'm doing` images",
   "main": "index.coffee",
   "author": {
