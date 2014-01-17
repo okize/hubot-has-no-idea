@@ -5,7 +5,7 @@ chai.use require 'sinon-chai'
 expect = chai.expect
 
 describe 'No idea:', ->
-  businesscat_module = require('../src/ihavenoidea')
+  ihavenoidea_module = require('../src/ihavenoidea')
 
   beforeEach ->
     @robot =
@@ -14,7 +14,7 @@ describe 'No idea:', ->
     @msg =
       send: sinon.spy()
       random: sinon.spy()
-    @businesscat_module = businesscat_module(@robot)
+    @ihavenoidea_module = ihavenoidea_module(@robot)
 
   describe 'i have no idea what i\'m doing', ->
 
