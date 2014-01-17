@@ -25,7 +25,7 @@ images = require './images.json'
 gaffes = [
   'i ha(ve|s) no idea',
   'i don\'t know',
-  '\b(wh|)oops(|ie)\b',
+  '\\b(wh|)oops(|ie)\\b',
   'my (bad|mistake|fault)',
   'd(\')oh'
 ]
