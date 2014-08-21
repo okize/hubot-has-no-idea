@@ -1,8 +1,11 @@
-[![NPM version](https://badge.fury.io/js/hubot-has-no-idea.png)](http://badge.fury.io/js/hubot-has-no-idea) [![NPM version](https://david-dm.org/okize/hubot-has-no-idea.png)](https://david-dm.org/okize/hubot-has-no-idea) [![Build Status](https://secure.travis-ci.org/okize/hubot-has-no-idea.png)](http://travis-ci.org/okize/hubot-has-no-idea)
+[![NPM version](http://img.shields.io/npm/v/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-has-no-idea)
+[![Build Status](http://img.shields.io/travis/okize/hubot-has-no-idea.svg?style=flat)](https://travis-ci.org/okize/hubot-has-no-idea)
+[![Dependency Status](http://img.shields.io/david/okize/hubot-has-no-idea.svg?style=flat)](https://david-dm.org/okize/hubot-has-no-idea)
+[![Downloads](http://img.shields.io/npm/dm/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-has-no-idea)
 
 # Hubot: Has No Idea
 
-Hubot script to display "I have no idea what I'm doing" images
+Hubot script to display ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) images
 
 ## Installation
 
