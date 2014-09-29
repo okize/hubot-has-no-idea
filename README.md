@@ -5,7 +5,7 @@
 
 # Hubot: Has No Idea
 
-Hubot script to display ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) images
+Hubot script to display ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) dog images
 
 ## Installation
 
