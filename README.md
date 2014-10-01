@@ -5,20 +5,18 @@
 
 # Hubot: Has No Idea
 
-Hubot script to display ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) dog images
+Hubot script that displays ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) dog images in response to chatroom mistakes
 
 ## Installation
 
-Add the package `hubot-has-no-idea` as a dependency in your Hubot `package.json` file.
+Run the following command to install this module as a Hubot dependency
 
-    "dependencies": {
-      "hubot-has-no-idea": "1.0.x"
-    }
+```
+$ npm install hubot-has-no-idea --save
+```
 
-Run the following command to make sure the module is installed.
+Add the **hubot-has-no-idea** to your `external-scripts.json` (you may need to create this file).
 
-    $ npm install hubot-has-no-idea
-
-To enable the script, add the `hubot-has-no-idea` entry to the `external-scripts.json` file (you may need to create this file).
-
-    ["hubot-has-no-idea"]
+```
+["hubot-has-no-idea"]
+```

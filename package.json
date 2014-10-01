@@ -1,7 +1,7 @@
 {
   "name": "hubot-has-no-idea",
   "version": "1.1.0",
-  "description": "Hubot script that displays `I have no idea what I'm doing` images",
+  "description": "Hubot script that displays `I have no idea what I'm doing` dog images in response to chatroom mistakes",
   "main": "index.coffee",
   "author": {
     "name": "Morgan Wigmanich",
