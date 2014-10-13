@@ -28,7 +28,7 @@
     "url": "https://github.com/okize/hubot-has-no-idea/issues"
   },
   "dependencies": {
-    "coffee-script": "1.6.x"
+    "coffee-script": "1.8.x"
   },
   "devDependencies": {
     "mocha": "1.17.x",
