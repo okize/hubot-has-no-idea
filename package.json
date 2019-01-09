@@ -17,7 +17,7 @@
   "license": "MIT",
   "scripts": {
     "test": "script/test",
-    "start": "coffee ./test/server.coffee"
+    "start": "coffee ./example/server.coffee"
   },
   "homepage": "https://github.com/okize/hubot-has-no-idea/",
   "repository": {
